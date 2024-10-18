@@ -1,4 +1,4 @@
-# Licence et droits d'auteur  
+# PROJECT-MAKER License
 ## Copyright © 2020-2024 Project-Maker. Tous droits réservés.
 
 L'ensemble du contenu de ce site web, y compris mais sans s'y limiter, les textes, graphiques, images, logos, vidéos, code source (HTML, CSS, JavaScript), et tout autre matériel disponible sur ce site (ci-après, le "Contenu"), est protégé par des droits d'auteur en vertu des lois nationales et internationales sur le copyright. Toute reproduction, distribution, modification, ou utilisation non autorisée du Contenu, en totalité ou en partie, est strictement interdite sans l'autorisation écrite préalable de Project-Maker.
@@ -21,4 +21,3 @@ Toute violation des droits d'auteur ou de la licence Preline Labs Pro donnera li
 
 ### Contact et demandes d'autorisation
 Pour toute demande d'autorisation relative à l'utilisation ou la reproduction du contenu ou du code source de ce site, veuillez contacter Project-Maker à l'adresse suivante : contact@project-maker.fr.
-
