@@ -1,23 +1,48 @@
 # PROJECT-MAKER License
+
 ## Copyright © 2020-2024 Project-Maker. Tous droits réservés.
 
-L'ensemble du contenu de ce site web, y compris mais sans s'y limiter, les textes, graphiques, images, logos, vidéos, code source (HTML, CSS, JavaScript), et tout autre matériel disponible sur ce site (ci-après, le "Contenu"), est protégé par des droits d'auteur en vertu des lois nationales et internationales sur le copyright. Toute reproduction, distribution, modification, ou utilisation non autorisée du Contenu, en totalité ou en partie, est strictement interdite sans l'autorisation écrite préalable de Project-Maker.
+Le contenu du SITE WEB, y compris mais sans s'y limiter les textes, graphiques, images, logos, vidéos, code source (HTML, CSS, JavaScript, fichiers associés), et tout autre matériel disponible (ci-après "le Contenu"), est protégé par des droits d'auteur conformément aux lois nationales et internationales en vigueur sur le copyright.
 
-Le code source du site, y compris les fichiers CSS et HTML, est également protégé par le Copyright © 2020-2024 Project-Maker. Toute tentative de réutilisation, de modification, ou de distribution du code sans autorisation explicite constitue une violation des droits d'auteur et des lois applicables.
+**Toute reproduction, distribution, modification ou utilisation non autorisée du Contenu, en totalité ou en partie, est strictement interdite sans l’autorisation écrite préalable de Project-Maker.**
 
-#### Licence Preline Labs Pro
-Le contenu de ce site est également couvert par la licence Preline Labs Pro, qui interdit la copie ou la reproduction non autorisée des éléments du site. Toute violation des termes de cette licence sera considérée comme une infraction légale et pourra entraîner des poursuites judiciaires.
+## 1. Objet de la licence
 
-En accédant à ce site, vous acceptez les conditions suivantes :
+La présente licence régit les conditions d’utilisation, de reproduction et de modification du Contenu et du code source du SITE WEB de Project-Maker. Toute utilisation ou modification en dehors des termes expressément mentionnés dans cette licence est interdite sans autorisation.
 
-**Interdiction de copie** : Il est formellement interdit de copier, reproduire, distribuer, afficher, ou exploiter de toute autre manière le contenu de ce site, y compris le code source (CSS, HTML, JavaScript), sans l'autorisation écrite expresse de Project-Maker.
+## 2. Droits et restrictions
 
-**Utilisation commerciale** : Toute utilisation commerciale ou non commerciale du Contenu, y compris le code source, sans autorisation écrite préalable est strictement interdite.
+### 2.1. Droits accordés
 
-**Responsabilité en cas de violation** : Toute violation des termes de la licence ou des droits d'auteur entraînera des actions en justice, y compris mais sans s'y limiter, des poursuites civiles et pénales. Project-Maker se réserve le droit de demander des dommages et intérêts pour toute infraction à ces droits.
+Sous réserve du respect des termes de cette licence, Project-Maker accorde une licence limitée, non exclusive et révocable pour visualiser, télécharger et exécuter le code source à des fins strictement personnelles et non commerciales.  
+**Aucune licence n'est accordée pour la modification ou la distribution du code ou du Contenu sans autorisation écrite explicite.**
 
-### Poursuites judiciaires
-Toute violation des droits d'auteur ou de la licence Preline Labs Pro donnera lieu à des poursuites judiciaires devant les tribunaux compétents. Project-Maker se réserve le droit d'engager toute action légale nécessaire pour protéger ses droits et son contenu.
+### 2.2. Restrictions spécifiques
 
-### Contact et demandes d'autorisation
-Pour toute demande d'autorisation relative à l'utilisation ou la reproduction du contenu ou du code source de ce site, veuillez contacter Project-Maker à l'adresse suivante : contact@project-maker.fr.
+- **Interdiction de copie** : Il est interdit de copier, reproduire, distribuer, afficher, transmettre ou exploiter de toute autre manière le Contenu ou le code source, en tout ou en partie, sans autorisation expresse.
+- **Interdiction de modification** : Il est interdit de modifier, adapter, traduire ou créer des œuvres dérivées du Contenu ou du code source sans autorisation préalable.
+- **Utilisation commerciale** : Toute utilisation à des fins commerciales ou concurrentielles est strictement interdite sans autorisation.
+
+## 3. Utilisation commerciale
+
+Toute utilisation commerciale, y compris, mais sans s'y limiter, la vente, la distribution ou l’utilisation dans des services payants, est strictement interdite sans autorisation écrite préalable de Project-Maker. Le non-respect de cette condition pourra donner lieu à des poursuites judiciaires, y compris la demande de dommages-intérêts.
+
+## 4. Responsabilité en cas de violation
+
+Toute violation des termes de cette licence ou des droits d’auteur entraînera des sanctions légales pouvant inclure des poursuites civiles ou pénales. Project-Maker se réserve le droit de demander des dommages-intérêts pour toute infraction à ses droits, en particulier en cas d'utilisation non autorisée du Contenu ou du code source.
+
+## 5. Licence Preline Labs Pro
+
+Le code source et le Contenu de ce dépôt sont également couverts par la licence Preline Labs Pro. Tout usage, reproduction ou modification des éléments couverts par cette licence sans l’autorisation appropriée sera considéré comme une violation de la présente licence, exposant l'utilisateur à des poursuites judiciaires.
+
+## 6. Poursuites judiciaires
+
+Toute infraction aux droits d'auteur ou à la licence Preline Labs Pro fera l’objet de poursuites judiciaires devant les tribunaux compétents. Project-Maker se réserve le droit d’engager toute action légale pour faire valoir ses droits et obtenir réparation pour les dommages subis.
+
+## 7. Modification et résiliation
+
+Project-Maker se réserve le droit de modifier les termes de la présente licence à tout moment. Toute modification sera communiquée via une mise à jour de ce dépôt GitHub. En continuant à utiliser le Contenu ou le code après une telle modification, vous acceptez les termes mis à jour.
+
+## 8. Demandes d'autorisation
+
+Pour toute demande d'autorisation relative à l'utilisation, la reproduction ou la modification du Contenu ou du code source de ce dépôt, veuillez contacter Project-Maker à l'adresse suivante : **contact@project-maker.fr**.
